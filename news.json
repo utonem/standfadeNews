@@ -1,0 +1,16 @@
+{
+    "news": [
+        {
+            "title": "Релиз приватки!",
+            "subtitle": "Сабайся на тгк чтобы узнать ещё новости.",
+            "author": "@b3bl1",
+            "authorInfo": "тгк: @standfade"
+        },
+        {
+            "title": "Новый режим!",
+            "subtitle": "Режим \"Сопровождение\" уже доступен.",
+            "author": "@b3bl1",
+            "authorInfo": "тгк: @standfade"
+        }
+    ]
+}
